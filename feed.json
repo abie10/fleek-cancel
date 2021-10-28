@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Cancel Jim Halpert",
+    "description": "",
+    "home_page_url": "https://canceljimhalpert.com",
+    "feed_url": "https://canceljimhalpert.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Abelicio Padilla"
+    },
+    "items": [
+        {
+            "id": "https://canceljimhalpert.com/cancel-jim-halpert.html",
+            "url": "https://canceljimhalpert.com/cancel-jim-halpert.html",
+            "title": "Cancel Jim Halpert",
+            "summary": "Jim Halpert is not the good guy. Jim Halpert is an antagonist. He treats everyone like they aren't at his level. He destroyed a long standing relationship. He tormented his employees. This blog will lay it all out on the line.",
+            "content_html": "<p>Jim Halpert is not the good guy.  Jim Halpert is an antagonist.  He treats everyone like they aren't at his level.  He destroyed a long standing relationship.  He tormented his employees.  </p>\n<p>This blog will lay it all out on the line.</p>",
+            "author": {
+                "name": "Abelicio Padilla"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-27T19:46:52-07:00",
+            "date_modified": "2021-10-27T19:46:52-07:00"
+        }
+    ]
+}

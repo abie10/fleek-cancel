@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Cancel Jim Halpert</title>
+    <link href="https://canceljimhalpert.com/feed.xml" rel="self" />
+    <link href="https://canceljimhalpert.com" />
+    <updated>2021-10-27T19:46:52-07:00</updated>
+    <author>
+        <name>Abelicio Padilla</name>
+    </author>
+    <id>https://canceljimhalpert.com</id>
+
+    <entry>
+        <title>Cancel Jim Halpert</title>
+        <author>
+            <name>Abelicio Padilla</name>
+        </author>
+        <link href="https://canceljimhalpert.com/cancel-jim-halpert.html"/>
+        <id>https://canceljimhalpert.com/cancel-jim-halpert.html</id>
+
+        <updated>2021-10-27T19:46:52-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Jim Halpert is not the good guy. Jim Halpert is an antagonist. He treats everyone like they aren't at his level. He destroyed a long standing relationship. He tormented his employees. This blog will lay it all out on the line.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Jim Halpert is not the good guy.  Jim Halpert is an antagonist.  He treats everyone like they aren't at his level.  He destroyed a long standing relationship.  He tormented his employees.  </p>
+<p>This blog will lay it all out on the line.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
