@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "32732ab27ba59761980f8dd9fb5474db"
+        "md5": "b8c00f41e1d342286383e28f36922154"
     },
     {
         "path": "assets",
@@ -107,27 +107,32 @@
     {
         "path": "/authors/abelicio-padilla/index.html",
         "type": "file",
-        "md5": "263781cd0e710d3fb704cfc2764e0a1d"
+        "md5": "5277c447a18ba6c37caf66baf29caf39"
     },
     {
-        "path": "cancel-jim-halpert.html",
+        "path": "cancel-jim-halpert",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/cancel-jim-halpert/index.html",
         "type": "file",
-        "md5": "e7207ef5213647acd3e9a510a76f851a"
+        "md5": "dff2f7abea41ab3906f232a3addf98fb"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "1ceedd772bd835d3b1623de827ca7b58"
+        "md5": "884ddec2f16e8d0a5175c847d610caa8"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "0a0a8cd74c5650c119bbf3876ce1b4f9"
+        "md5": "de5ad0dbd79780d9937b87adab358eb7"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "42890c448345b2f8e11cd8265da5837c"
+        "md5": "f67ff503f7d38577d9bdee270b9d0f3b"
     },
     {
         "path": "robots.txt",
@@ -137,12 +142,12 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "d83f2975fc34681904fa74574d4a988f"
+        "md5": "4d4e025a25d6f3af53ef3284e4ddb43d"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "bd69c925269d2506ac3edfea1c8425a4"
+        "md5": "932b6aa6cb9757eec22116516f348972"
     },
     {
         "path": "sitemap.xsl",
@@ -157,6 +162,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "b3f26fb7da70f35cfa91900e7abb017e"
+        "md5": "a57c30bc901656d32c34009b96a06c60"
     }
 ]
